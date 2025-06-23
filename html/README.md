@@ -5,8 +5,8 @@ Imagine you’re building a house in the kampung. You don’t just throw bricks 
 
 ### What is it?
 * **Semantic** means “meaningful.” Semantic HTML uses tags that describe what the content is, not just how it looks.
-* Instead of using <div> for everything (like building every room with the same plain wall), you use tags like <header>, <nav>, <main>, <article>, <section>, <footer>, etc.
-* Example: A <nav> tag tells everyone, “This is the menu to move around the site,” just like a signboard in the kampung pointing to the surau or pasar.
+* Instead of using <div> for everything (like building every room with the same plain wall), you use tags like `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<footer>`, etc.
+* Example: A `<nav>` tag tells everyone, “This is the menu to move around the site,” just like a signboard in the kampung pointing to the surau or pasar.
 
 ### Why is it important?
 * **Makes the house clear for everyone:** Search engines like Google understand your site better. If you use <article> for a blog post, Google knows it’s important content, not just a random box.

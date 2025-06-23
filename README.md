@@ -4,7 +4,7 @@ To "pro 100%" at React.js, you need a structured path to master the framework, i
 # 1. Foundational JavaScript and Web Development (20%)
 Before diving deep into React, you need a strong grasp of JavaScript and web fundamentals, as React heavily relies on them.
 * **JavaScript Essentials (10%):**
-  * ES6+ syntax: arrow functions, destructuring, spread/rest operators, modules (import/export).
+  * ES6+ syntax: arrow functions, destructuring, spread/rest operators, modules (import/export). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/es6-syntax)
   * Asynchronous JavaScript: Promises, async/await, fetch API.
   * Functional programming: map, filter, reduce, closures, and immutability.
   * DOM manipulation and understanding the browser environment.

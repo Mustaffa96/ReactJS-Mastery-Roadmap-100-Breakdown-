@@ -3,8 +3,8 @@ Let’s break this down in a kampung (village) way, like we’re sitting under a
 # 1. What is DOM Manipulation? (In Kampung Terms)
 Imagine your village is a big, beautiful rumah kampung (traditional house). This house is the web page you see in your browser. The DOM (Document Object Model) is like the blueprint of the house. It’s a map that shows every part of the house — the walls (divs), windows (buttons), furniture (text, images), and even the decorations (styles like colors or fonts).
 **DOM manipulation** is like rearranging, adding, or removing things in the house to make it better for the people living there. For example:
-* You want to add a new chair (create an element like a <p> tag).
-* You want to paint the walls blue (change the style, like element.style.color = "blue").
+* You want to add a new chair (create an element like a `<p>` tag).
+* You want to paint the walls blue (change the style, like `element.style.color = "blue"`).
 * You want to move a table to another room (update an element’s position or content).
 
 In the old days, we’d use JavaScript to directly tell the browser, “Oi, go grab that chair and move it!” This is done by writing code to interact with the DOM, like:
@@ -31,7 +31,8 @@ Here’s what the village (browser environment) gives you:
 document.getElementById("door").addEventListener("click", function() {
     alert("Someone’s at the door!");
 
-});```
+});
+```
 * **The Village Rules (Security):** The browser has strict rules, like “no stealing from other houses” (cross-origin restrictions) or “don’t mess with the village square” (limited access to some system features).
 
 The browser environment is where your JavaScript code runs. It’s not just about the house (web page) but also how the house talks to the village (browser features) and the world (servers, APIs).
@@ -50,6 +51,7 @@ React doesn’t directly mess with the DOM like old-school JavaScript. Instead, 
 * You write components (like reusable blueprints for parts of the house, e.g., a “Header” or “Button”).
 * When something changes (like a user clicks a button), React updates the Virtual DOM (the sketch) first.
 * React compares the old sketch with the new one and only updates the real DOM (the actual house) where needed. This is faster than repainting the whole house every time.
+
 Example:
 ```jsx
 function MyHouse() {

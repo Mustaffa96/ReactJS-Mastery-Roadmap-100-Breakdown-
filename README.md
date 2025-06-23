@@ -6,7 +6,7 @@ Before diving deep into React, you need a strong grasp of JavaScript and web fun
 * **JavaScript Essentials (10%):**
   * ES6+ syntax: arrow functions, destructuring, spread/rest operators, modules (import/export). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/es6-syntax)
   * Asynchronous JavaScript: Promises, async/await, fetch API. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/async-js)
-  * Functional programming: map, filter, reduce, closures, and immutability.
+  * Functional programming: map, filter, reduce, closures, and immutability. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/fp)
   * DOM manipulation and understanding the browser environment.
 * **Web Development Basics (10%):**
   * HTML: Semantic markup, accessibility (ARIA roles).

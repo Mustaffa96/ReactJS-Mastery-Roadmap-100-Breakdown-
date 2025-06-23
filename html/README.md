@@ -4,9 +4,9 @@ Let’s break this down in a “kampung” way, like we’re chatting under a bi
 Imagine you’re building a house in the kampung. You don’t just throw bricks and wood together randomly, right? You plan: “This is the kitchen, this is the living room, this is the bedroom.” Each part has a clear purpose, so everyone knows where to cook, relax, or sleep. Semantic markup in HTML is like that—it’s about using the right HTML tags to clearly define the purpose of each part of your webpage.
 
 ### What is it?
-* **Semantic means “meaningful.” Semantic HTML uses tags that describe what the content is, not just how it looks.
-* **Instead of using <div> for everything (like building every room with the same plain wall), you use tags like <header>, <nav>, <main>, <article>, <section>, <footer>, etc.
-* **Example: A <nav> tag tells everyone, “This is the menu to move around the site,” just like a signboard in the kampung pointing to the surau or pasar.
+* **Semantic** means “meaningful.” Semantic HTML uses tags that describe what the content is, not just how it looks.
+* Instead of using <div> for everything (like building every room with the same plain wall), you use tags like <header>, <nav>, <main>, <article>, <section>, <footer>, etc.
+* Example: A <nav> tag tells everyone, “This is the menu to move around the site,” just like a signboard in the kampung pointing to the surau or pasar.
 
 ### Why is it important?
 * **Makes the house clear for everyone:** Search engines like Google understand your site better. If you use <article> for a blog post, Google knows it’s important content, not just a random box.

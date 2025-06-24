@@ -29,7 +29,7 @@ Mastering React’s fundamentals is critical to building functional applications
   * Unidirectional data flow. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/undir-data-flow)
   * Component composition and reusability. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/comp-composition)
   * React’s reconciliation process and virtual DOM. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/reconciliation)
-* **Milestone:** Build a simple React app (e.g., a task manager or weather app) using functional components, hooks, and API calls.
+* **Milestone:** Build a simple React app (e.g., a task manager or weather app) using functional components, hooks, and API calls. [Click HERE](https://github.com/Mustaffa96/ReactJS-milestone-2/tree/main)
 
 # 3. Advanced React Concepts (20%)
 To stand out as a pro, you need to master advanced patterns and performance optimization.

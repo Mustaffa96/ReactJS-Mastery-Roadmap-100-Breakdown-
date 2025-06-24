@@ -22,7 +22,7 @@ Mastering React’s fundamentals is critical to building functional applications
   * Event handling and conditional rendering. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/event-handling)
   * Lists and keys for rendering dynamic data. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/list-key)
 * **State and Lifecycle (10%):**
-  * Managing state with useState and useReducer hooks.
+  * Managing state with useState and useReducer hooks. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/hooks)
   * Understanding component lifecycle (useEffect for side effects).
   * Controlled vs. uncontrolled components (e.g., forms).
 * **React Principles (5%):**

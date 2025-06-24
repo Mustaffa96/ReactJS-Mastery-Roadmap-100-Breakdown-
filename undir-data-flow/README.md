@@ -21,7 +21,7 @@ Imagine you’re in a kampung where there’s a small restaurant. The restaurant
 
 # Why One-Way (Unidirectional)?
 * **No Confusion:** In the kampung restaurant, everyone knows their role. The chef controls the food, waiters deliver it, and customers don’t mess with the kitchen. This keeps things organized.
-* **In React, unidirectional data flow ensures data moves in one direction (from parent to child). This makes it easier to track where data comes from and how it changes, avoiding messy bugs.
+* In React, unidirectional data flow ensures data moves in one direction (from parent to child). This makes it easier to track where data comes from and how it changes, avoiding messy bugs.
 * **Predictable Flow:** If the customer wants a change, they follow the process (customer → waiter → chef). Similarly, in React, changes to data (state) are handled by the parent, and the updates flow down predictably.
 
 # Kampung Example in React Terms:

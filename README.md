@@ -26,7 +26,7 @@ Mastering React’s fundamentals is critical to building functional applications
   * Understanding component lifecycle (useEffect for side effects). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/component-lifecycle)
   * Controlled vs. uncontrolled components (e.g., forms). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/control-uncontrol-comp)
 * **React Principles (5%):**
-  * Unidirectional data flow.
+  * Unidirectional data flow. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/undir-data-flow)
   * Component composition and reusability.
   * React’s reconciliation process and virtual DOM.
 * **Milestone:** Build a simple React app (e.g., a task manager or weather app) using functional components, hooks, and API calls.

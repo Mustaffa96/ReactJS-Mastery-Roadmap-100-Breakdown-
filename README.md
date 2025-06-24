@@ -12,7 +12,7 @@ Before diving deep into React, you need a strong grasp of JavaScript and web fun
   * HTML: Semantic markup, accessibility (ARIA roles). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/html)
   * CSS: Flexbox, Grid, responsive design, CSS-in-JS basics. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/css)
   * Browser DevTools: Debugging, inspecting network requests. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/devtool)
-* **Milestone:** Build small vanilla JS projects (e.g., a to-do list or API-driven app) to solidify these skills.
+* **Milestone:** Build small vanilla JS projects (e.g., a to-do list or API-driven app) to solidify these skills. [Click HERE](https://github.com/Mustaffa96/ReactJS-milestone-1)
 
 # 2. Core React Concepts (25%)
 Mastering React’s fundamentals is critical to building functional applications.

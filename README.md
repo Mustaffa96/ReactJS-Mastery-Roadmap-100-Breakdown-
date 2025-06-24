@@ -17,7 +17,7 @@ Before diving deep into React, you need a strong grasp of JavaScript and web fun
 # 2. Core React Concepts (25%)
 Mastering React’s fundamentals is critical to building functional applications.
 * **React Basics (10%):**
-  * JSX syntax and how it translates to JavaScript.
+  * JSX syntax and how it translates to JavaScript. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/jsx-syntax)
   * Components: Functional vs. class components, props, and state.
   * Event handling and conditional rendering.
   * Lists and keys for rendering dynamic data.

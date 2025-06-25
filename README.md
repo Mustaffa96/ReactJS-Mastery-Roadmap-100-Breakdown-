@@ -50,7 +50,7 @@ To stand out as a pro, you need to master advanced patterns and performance opti
 # 4. React Ecosystem and Tools (20%)
 Professional React developers must be proficient with the broader ecosystem and tooling.
 * **State Management (8%):**
-  * Redux (or Redux Toolkit) for global state.
+  * Redux (or Redux Toolkit) for global state. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/redux)
   * Alternatives like Zustand or Recoil for simpler use cases.
 Server state management with React Query or SWR for API data.
 * **Routing (5%):**

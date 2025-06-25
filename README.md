@@ -65,7 +65,7 @@ Professional React developers must be proficient with the broader ecosystem and 
 # 5. Real-World Application and Best Practices (15%)
 To be a pro, you need to apply React in production-grade scenarios and follow industry standards.
 * **Project Architecture (5%):**
-  * Folder structure and scalability (e.g., feature-based architecture).
+  * Folder structure and scalability (e.g., feature-based architecture). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/folder-struct)
   * Component design systems (e.g., Storybook integration).
   * Managing API integrations and error handling.
 * **Best Practices (5%):**

@@ -45,7 +45,7 @@ To stand out as a pro, you need to master advanced patterns and performance opti
   * Higher-order components (HOCs) and render props. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/hoc-render)
   * Compound components and controlled component patterns. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/comp-components)
   * Error boundaries for robust error handling. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/error-boundaries)
-* **Milestone:** Build a complex app (e.g., a dashboard with dynamic data, lazy-loaded routes, and custom hooks) and optimize it for performance.
+* **Milestone:** Build a complex app (e.g., a dashboard with dynamic data, lazy-loaded routes, and custom hooks) and optimize it for performance. [Click HERE](https://github.com/Mustaffa96/ReactJS-milestone-3)
 
 # 4. React Ecosystem and Tools (20%)
 Professional React developers must be proficient with the broader ecosystem and tooling.

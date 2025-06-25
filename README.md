@@ -54,7 +54,7 @@ Professional React developers must be proficient with the broader ecosystem and 
   * Alternatives like Zustand or Recoil for simpler use cases. Server state management with React Query or SWR for API data. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/alternative-to-redux)
 * **Routing (5%):**
   * React Router: Dynamic routing, nested routes, route guards. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/react-router)
-  * Handling query params and navigation programmatically.
+  * Handling query params and navigation programmatically. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/query-param)
 * **Tooling and Build Systems (7%):**
   * Vite or Create React App for project setup.
   * Webpack basics (for advanced customization).

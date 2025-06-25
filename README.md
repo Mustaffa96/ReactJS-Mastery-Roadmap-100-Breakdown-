@@ -42,7 +42,7 @@ To stand out as a pro, you need to master advanced patterns and performance opti
   * Lazy loading with React.lazy and Suspense. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/lazy)
   * Code splitting and bundle optimization. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/code-split)
 * **Advanced Patterns (5%):**
-  * Higher-order components (HOCs) and render props.
+  * Higher-order components (HOCs) and render props. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/hoc-render)
   * Compound components and controlled component patterns.
   * Error boundaries for robust error handling.
 * **Milestone:** Build a complex app (e.g., a dashboard with dynamic data, lazy-loaded routes, and custom hooks) and optimize it for performance.

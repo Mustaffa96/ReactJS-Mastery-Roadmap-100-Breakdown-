@@ -56,10 +56,10 @@ Professional React developers must be proficient with the broader ecosystem and 
   * React Router: Dynamic routing, nested routes, route guards. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/react-router)
   * Handling query params and navigation programmatically. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/query-param)
 * **Tooling and Build Systems (7%):**
-  * Vite or Create React App for project setup.
-  * Webpack basics (for advanced customization).
-  * ESLint, Prettier, and TypeScript for code quality.
-  * Testing: Jest, React Testing Library, or Cypress for unit and integration tests.
+  * Vite or Create React App for project setup. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/vite)
+  * Webpack basics (for advanced customization). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/webpack)
+  * ESLint, Prettier, and TypeScript for code quality. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/eslint)
+  * Testing: Jest, React Testing Library, or Cypress for unit and integration tests. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/testing)
 * **Milestone:** Build an app with Redux or React Query, React Router, and a testing suite. Deploy it using Vercel or Netlify.
 
 # 5. Real-World Application and Best Practices (15%)

@@ -137,9 +137,9 @@ function Shop() {
 * **Cons:** Slightly steeper learning curve than SWR, but worth it for bigger projects.
 
 * **SWR: The Chill Delivery Guy**
-* **What it is: SWR (Stale-While-Revalidate) is a lightweight library for fetching server data. It’s simpler than React Query but still powerful.
+* **What it is:** SWR (Stale-While-Revalidate) is a lightweight library for fetching server data. It’s simpler than React Query but still powerful.
 
-* **How it works: You give SWR a “key” (like the API URL) and a fetch function. It fetches data, caches it, and revalidates (checks for updates) in the background.
+* **How it works:** You give SWR a “key” (like the API URL) and a fetch function. It fetches data, caches it, and revalidates (checks for updates) in the background.
 
 * **Why it’s good:**
   * Super simple to use (feels like writing plain React).

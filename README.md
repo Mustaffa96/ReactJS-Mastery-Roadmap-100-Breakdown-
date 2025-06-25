@@ -34,7 +34,7 @@ Mastering React’s fundamentals is critical to building functional applications
 # 3. Advanced React Concepts (20%)
 To stand out as a pro, you need to master advanced patterns and performance optimization.
 * **Advanced Hooks (8%):**
-  * Custom hooks for reusable logic.
+  * Custom hooks for reusable logic. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/custom-hooks)
   * useCallback, useMemo, and useRef for performance and DOM access.
   * Context API with useContext for state management.
 * **Performance Optimization (7%):**

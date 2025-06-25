@@ -44,7 +44,7 @@ To stand out as a pro, you need to master advanced patterns and performance opti
 * **Advanced Patterns (5%):**
   * Higher-order components (HOCs) and render props. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/hoc-render)
   * Compound components and controlled component patterns. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/comp-components)
-  * Error boundaries for robust error handling.
+  * Error boundaries for robust error handling. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/error-boundaries)
 * **Milestone:** Build a complex app (e.g., a dashboard with dynamic data, lazy-loaded routes, and custom hooks) and optimize it for performance.
 
 # 4. React Ecosystem and Tools (20%)

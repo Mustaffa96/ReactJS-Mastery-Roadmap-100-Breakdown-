@@ -51,7 +51,7 @@ To stand out as a pro, you need to master advanced patterns and performance opti
 Professional React developers must be proficient with the broader ecosystem and tooling.
 * **State Management (8%):**
   * Redux (or Redux Toolkit) for global state. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/redux)
-  * Alternatives like Zustand or Recoil for simpler use cases.
+  * Alternatives like Zustand or Recoil for simpler use cases. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/alternative-to-redux)
 Server state management with React Query or SWR for API data.
 * **Routing (5%):**
   * React Router: Dynamic routing, nested routes, route guards.

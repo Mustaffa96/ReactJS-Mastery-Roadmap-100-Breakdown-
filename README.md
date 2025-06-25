@@ -39,7 +39,7 @@ To stand out as a pro, you need to master advanced patterns and performance opti
   * Context API with useContext for state management. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/context-api)
 * **Performance Optimization (7%):**
   * Memoization with React.memo, useMemo, and useCallback. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/memoization)
-  * Lazy loading with React.lazy and Suspense.
+  * Lazy loading with React.lazy and Suspense. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/lazy)
   * Code splitting and bundle optimization.
 * **Advanced Patterns (5%):**
   * Higher-order components (HOCs) and render props.

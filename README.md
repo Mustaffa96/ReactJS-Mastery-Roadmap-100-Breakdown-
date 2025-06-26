@@ -60,18 +60,18 @@ Professional React developers must be proficient with the broader ecosystem and 
   * Webpack basics (for advanced customization). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/webpack)
   * ESLint, Prettier, and TypeScript for code quality. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/eslint)
   * Testing: Jest, React Testing Library, or Cypress for unit and integration tests. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/testing)
-* **Milestone:** Build an app with Redux or React Query, React Router, and a testing suite. Deploy it using Vercel or Netlify.
+* **Milestone:** Build an app with Redux or React Query, React Router, and a testing suite. Deploy it using Vercel or Netlify. [Click HERE](https://github.com/Mustaffa96/ReactJS-milestone-4)
 
 # 5. Real-World Application and Best Practices (15%)
 To be a pro, you need to apply React in production-grade scenarios and follow industry standards.
 * **Project Architecture (5%):**
   * Folder structure and scalability (e.g., feature-based architecture). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/folder-struct)
   * Component design systems (e.g., Storybook integration). [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/comp-design)
-  * Managing API integrations and error handling.[Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/api-integration)
+  * Managing API integrations and error handling. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/api-integration)
 * **Best Practices (5%):**
-  * Accessibility (a11y): Semantic HTML, keyboard navigation, screen reader support.
-  * Code reviews, linting, and CI/CD pipelines.
-  * Writing maintainable and reusable code.
+  * Accessibility (a11y): Semantic HTML, keyboard navigation, screen reader support. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/a11y))
+  * Code reviews, linting, and CI/CD pipelines. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/ci-cd)
+  * Writing maintainable and reusable code. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/blob/main/maintain/README.md)
 * **Real-World Experience (5%):**
   * Handling large-scale apps with complex state and UI requirements.
   * Debugging production issues (e.g., memory leaks, performance bottlenecks).
@@ -81,7 +81,7 @@ To be a pro, you need to apply React in production-grade scenarios and follow in
 # 6. Keeping Up with the Ecosystem (10%)
 The React ecosystem evolves rapidly, so staying current is essential for a pro.
 * **Emerging Trends (5%):**
-  * Learn server-side rendering (SSR) and static site generation (SSG) with Next.js.
+  * Learn server-side rendering (SSR) and static site generation (SSG) with Next.js. [Click HERE](https://github.com/Mustaffa96/ReactJS-Mastery-Roadmap-100-Breakdown-/tree/main/nextjs)
   * Explore React Server Components (RSC) and their use cases.
   * Understand new hooks or APIs introduced in React 18+.
 * **Community Engagement (5%):**

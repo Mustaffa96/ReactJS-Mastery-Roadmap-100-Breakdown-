@@ -1,4 +1,4 @@
-#What is Maintainable and Reusable Code?
+# What is Maintainable and Reusable Code?
 * **Maintainable code** is like a well-built village house. It’s easy to repair, clean, or add new parts without tearing everything down. If something breaks (like a bug), you can fix it without causing a mess.
 
 * **Reusable code** is like crafting reusable tools or furniture in the village. Instead of building a new chair every time someone needs to sit, you make one good chair design that can be used in many houses.
